@@ -1,5 +1,10 @@
 # RedditDiscordBot
 
+## Pretty sure this no longer works due to Reddit severely limiting who can use their API
+- This repo serves as a copy of the first version of this I did that was specific to a server I once had with friends before I actually knew what git was
+
+
+
 A quick new repo I made for an updated version of the bot without deprecated modules.
 
 # How to Use
